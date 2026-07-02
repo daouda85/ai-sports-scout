@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react"
 
-const BACKEND_URL = "http://127.0.0.1:8000"
+const BACKEND_URL = "https://ai-sports-scout.onrender.com"
 
 function usePlayerSearch() {
   const [query, setQuery] = useState("")
