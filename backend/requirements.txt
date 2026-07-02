@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+nba_api
+groq
+python-dotenv
+pydantic
